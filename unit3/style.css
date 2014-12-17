@@ -1,6 +1,6 @@
 body {
 	text-align: left;
-	background: url(assets/stripes.png), url(assets/background.jpg);
+	background: url(Assets/stripes.png), url(Assets/background.jpg);
 	background-repeat: repeat-x,  no-repeat;
 	background-size: 620px, cover;
 	color: white;
